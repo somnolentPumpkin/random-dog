@@ -1,4 +1,4 @@
-WinFormsApp1/obj/
-WinFormsApp1/bin/
+*/obj/*
+*/bin/*
 *.exe
 .vs
